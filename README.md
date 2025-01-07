@@ -25,7 +25,7 @@ This project is a **Flask web application** integrated with **speech recognition
 ## 📹 **Demo Video**
 
 [https://youtu.be/ox_7TKfb0dE](url)
----
+
 
 ## 💡 **How It Works**
 1. **Voice Interaction**: Users choose their preferred language and give voice commands.
