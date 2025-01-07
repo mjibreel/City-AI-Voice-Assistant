@@ -24,8 +24,7 @@ This project is a **Flask web application** integrated with **speech recognition
 
 ## 📹 **Demo Video**
 
-[](https://youtu.be/ox_7TKfb0dE)
-
+[https://youtu.be/ox_7TKfb0dE](url)
 ---
 
 ## 💡 **How It Works**
